@@ -36,10 +36,11 @@ StreamWorks Media faces rising acquisition costs, making retention critical. Thi
 
 ## Files
 - `notebook_week3.ipynb` — modelling workflow, charts, and evidence
-- `coversheet_week3.pdf` — final written submission (primary graded artefact)
+- `notebook_week3_portfolio.ipynb` — enhanced notebook with tuned models and extended analysis
+- `coversheet_week3.pdf` — original submission
+- `coversheet_week3_portfolio.pdf` — portfolio-ready report
 - `data/` — dataset used (if included)
 - `brief/` — project brief (if included)
-- `assets/` — screenshots used in reporting (optional)
 
 ## How to Run
 Open `notebook_week3.ipynb` in Jupyter/Colab and run top-to-bottom.  
