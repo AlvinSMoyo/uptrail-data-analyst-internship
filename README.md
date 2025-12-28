@@ -9,10 +9,12 @@ Each week includes a coversheet report (PDF), a Jupyter notebook, and supporting
 
 ## Repository Structure
 Each `week-xx` folder contains:
-- `README.md` (project summary)
-- `coversheet_weekx.pdf`
-- `notebook_weekx.ipynb`
-- `brief/` (project brief)
-- `data/` (datasets, if allowed)
-- `assets/` (images/screenshots used in reporting)
+- `README.md` – project summary and context
+- `coversheet_weekx.pdf` – formal project submission
+- `coversheet_weekx_portfolio.pdf` – refined, portfolio-ready version (where applicable)
+- `notebook_weekx.ipynb` – analytical workflow and code
+- `notebook_weekx_portfolio.ipynb` – enhanced notebook with clearer structure and narrative (where applicable)
+- `brief/` – original project brief
+- `data/` – datasets (where permitted)
+
 
