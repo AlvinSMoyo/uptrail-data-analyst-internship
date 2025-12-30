@@ -26,11 +26,13 @@ This project analyses customer sign-up behaviour and support ticket patterns to 
 - Use segmentation (age bands, region where reliable) to tailor acquisition and retention messaging.
 
 ## Files
-- `notebook_week1.ipynb` — analysis workflow and outputs
-- `coversheet_week1.pdf` — final written submission
-- `data/` — datasets used (if included)
-- `brief/` — project brief (if included)
-- `assets/` — screenshots used in reporting (optional)
+- notebook_week1.ipynb — original analysis workflow
+- notebook_week1_portfolio.ipynb — refined, portfolio-ready notebook
+- coversheet_week1.pdf — original submission
+- coversheet_week1_portfolio.pdf — portfolio-ready report
+- data/ — datasets used (if included)
+- brief/ — project brief (if included)
+
 
 ## How to Run
 Open `notebook_week1.ipynb` in Jupyter/Colab and run top-to-bottom.  

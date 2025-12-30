@@ -22,6 +22,7 @@ This project explores sales performance and customer behaviour to identify profi
 - Clear seasonality signals support campaign timing and inventory planning.
 - Acquisition channels vary in value; investment should be aligned to lifetime value, not just volume.
 
+
 ## Recommendations
 - Prioritise high-margin categories and top-performing suppliers for 2025 growth.
 - Design targeted loyalty offers for lower tiers with clear upgrade pathways.
@@ -30,10 +31,11 @@ This project explores sales performance and customer behaviour to identify profi
 
 ## Files
 - `notebook_week2.ipynb` — analysis workflow and outputs
-- `coversheet_week2.pdf` — final written submission
+- `coversheet_week2.pdf` — original submission
+- `coversheet_week2_portfolio.pdf` — portfolio-ready report
 - `data/` — datasets used (if included)
 - `brief/` — project brief (if included)
-- `assets/` — screenshots used in reporting (optional)
+
 
 ## How to Run
 Open `notebook_week2.ipynb` in Jupyter/Colab and run top-to-bottom.  
