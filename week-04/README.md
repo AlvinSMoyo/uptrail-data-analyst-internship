@@ -1,4 +1,3 @@
-
 ## 📊 Week 04 — Executive Dashboard, BI Tools & AI in Analytics
 
 **Project: TechHub Executive Performance Overview**
